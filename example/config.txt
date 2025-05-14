@@ -1,0 +1,2 @@
+Prefix plugins/WSRF/example/
+Plugin WSRF inputfile parameters.train.txt outputfile output.rds
